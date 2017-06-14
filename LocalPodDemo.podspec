@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "LocalPodDemo"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "test"
   s.description  = "test，balabala"
   s.homepage     = "https://github.com/interchen/"
