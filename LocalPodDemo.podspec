@@ -2,12 +2,12 @@
 Pod::Spec.new do |s|
 
   s.name         = "LocalPodDemo"
-  s.version      = "0.0.3"
+  s.version      = "0.0.4"
   s.summary      = "test"
   s.description  = "test，balabala"
   s.homepage     = "https://github.com/interchen/"
 
-  s.license      = { :type => 'MIT', :file => 'LICENSE.md' }
+  s.license      = { :type => 'MIT', :file => 'LICENSE' }
 
   s.author       = { "Chen Yanjun" => "inter.chen@gmail.com" }
 
